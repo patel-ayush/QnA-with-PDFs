@@ -12,7 +12,7 @@ def main():
                         filename='pdf_qa_agent.log',
                         filemode='w')  
 
-    logging.info("Starting PDF Q&A Agent")
+    print("Starting PDF Q&A Agent")
 
     parser = argparse.ArgumentParser(description="PDF Q&A Agent")
     parser.add_argument("pdf_path", help="Path to the PDF file")
