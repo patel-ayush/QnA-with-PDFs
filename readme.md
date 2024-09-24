@@ -50,10 +50,11 @@ Replace `path/to/your/document.pdf` and `path/to/your/questions.pdf`  with the p
 
 
 ### How to get Slack bot token?
-To create your Slack bot token, follow these steps:
-	1.	Go to the Slack API website.
-	2.	Log into your Slack workspace.
-	3.	Create a new app by navigating to Your Apps and selecting Create New App.
-	4.	In the OAuth & Permissions section, make sure to grant the necessary permissions, particularly the write permission for your bot to send messages to your channel.
-	5.	Copy the generated Bot User OAuth Token and paste it into the SLACK_BOT_TOKEN field in your .env file.
 
+To create your Slack bot token, follow these steps:
+
+1. Go to the [Slack API website](https://api.slack.com/).
+2. Log into your Slack workspace.
+3. Create a new app by navigating to **Your Apps** and selecting **Create New App**.
+4. In the **OAuth & Permissions** section, make sure to grant the necessary permissions, particularly the **write** permission for your bot to send messages to your channel.
+5. Copy the generated **Bot User OAuth Token** and paste it into the `SLACK_BOT_TOKEN` field in your `.env` file.
