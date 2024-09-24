@@ -1,6 +1,6 @@
 # PDF Q&A Agent
 
-This project implements an AI agent that can extract answers from a PDF document based on given questions and post the results on Slack.
+This project implements an AI agent that can extract questions and answers from PDF documents and post the results on Slack.
 
 ## Features
 
@@ -12,8 +12,8 @@ This project implements an AI agent that can extract answers from a PDF document
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/pdf-qa-agent.git
-   cd pdf-qa-agent
+   git clone https://github.com/patel-ayush/QnA-with-PDFs.git
+   cd QnA-with-PDFs
    ```
 
 2. Create a virtual environment and activate it:
