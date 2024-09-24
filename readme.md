@@ -24,7 +24,7 @@ This project implements an AI agent that can extract questions and answers from 
 
 #### 3. Configuration
 
-Edit the `.env` file and add your OpenAI API key and Slack bot token:
+Create and edit the `.env` file and add your OpenAI API key and Slack bot token:
 
 ```
 OPENAI_API_KEY=your_openai_api_key
